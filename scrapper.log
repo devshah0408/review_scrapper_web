@@ -5597,3 +5597,109 @@ ERROR:werkzeug:127.0.0.1 - - [16/Apr/2025 01:11:51] code 400, message Bad reques
 INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:11:51] "[31m[1m  ü[0m" 400 -
 ERROR:werkzeug:127.0.0.1 - - [16/Apr/2025 01:11:51] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00}\x01\x00\x00y\x03\x01C"0')
 INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:11:51] "[31m[1m }  yC"0 /gõVµ×:çoÔàÃ°¦[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:30:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:30:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:30:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'headphones', 'Name': 'RITHESH REDDY V', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'P Ananda Kumar', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Sumit ', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Srikanth ShettY', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Avinash  kumar', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'N.Charan   Kumar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Pathan  Mansoor Ali Khsn ', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:30:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:30:15] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:30:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iPhones13', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'No Comment'}, {'Product': 'iPhones13', 'Name': 'Mahim Chauhan', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'No Comment'}, {'Product': 'iPhones13', 'Name': 'suhaib s s', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'No Comment'}, {'Product': 'iPhones13', 'Name': 'Arnab Das', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'No Comment'}, {'Product': 'iPhones13', 'Name': 'Srinivash Bhoi', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'No Comment'}, {'Product': 'iPhones13', 'Name': 'Pushpita Mayra', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'No Comment'}, {'Product': 'iPhones13', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'No Comment'}, {'Product': 'iPhones13', 'Name': 'Vaibhav  Raj', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'No Comment'}, {'Product': 'iPhones13', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'No Comment'}, {'Product': 'iPhones13', 'Name': 'Mahesh Jaiswara', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'No Comment'}, {'Product': 'iPhones13', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:30:33] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:30:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:30:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'headphones', 'Name': 'RITHESH REDDY V', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'P Ananda Kumar', 'Rating': '4', 'CommentHead': 'Good choice', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Sumit ', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Srikanth ShettY', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Avinash  kumar', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'N.Charan   Kumar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'Pathan  Mansoor Ali Khsn ', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'No Comment'}, {'Product': 'headphones', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:11] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:11] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Antony Dhas', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Jishnu Cmk', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Abdul  Rehan ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'RIS HAV', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Amit Rawool', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '3', 'CommentHead': 'Fair', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'raghvendra prasad  Pal', 'Rating': '4', 'CommentHead': 'Excellent', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Rishi Das', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:20] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:list index out of range
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Antony Dhas', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Jishnu Cmk', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Abdul  Rehan ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'RIS HAV', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Amit Rawool', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '3', 'CommentHead': 'Fair', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'raghvendra prasad  Pal', 'Rating': '4', 'CommentHead': 'Excellent', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Rishi Das', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'No Comment'}, {'Product': 'redmi', 'Name': 'No Name', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'No Comment'}]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:48] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2025 01:34:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
